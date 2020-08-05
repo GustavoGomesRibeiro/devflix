@@ -12,7 +12,7 @@ npm install
 ```
 to install all dependencies
 
-install expo on yout cell phone 
+install expo on your cell phone 
 ```
 https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR
 https://apps.apple.com/br/app/expo-client/id982107779
