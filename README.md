@@ -8,8 +8,10 @@ react-native requirements
 
 run
 ```
-npm install to install all dependencies
+npm install 
 ```
+to install all dependencies
+
 install expo on yout cell phone 
 ```
 https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR
